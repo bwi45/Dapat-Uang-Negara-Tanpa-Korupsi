@@ -7,12 +7,12 @@
 
 ## Cara Mendapatkan Uang Negara Tanpa Korupsi
 Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara secara legal dan tentunya tanpa korupsi. Berikut adalah beberapa cara untuk mendapatkan dana dari uang negara didahului dengan landasan hukumnya.
++ [Peraturan Pemerintah (PP) No. 136 Tahun 2000 Tata Cara Penjualan Barang Sitaan Yang Dikecualikan Dari Penjualan Secara Lelang Dalam Rangka Penagihan Pajak Dengan Surat Paksa](https://peraturan.bpk.go.id/Home/Details/54016/pp-no-136-tahun-2000)
 + [Keputusan Presiden (Keppres) No. 80 Tahun 2003 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah](http://www.anggaran.depkeu.go.id/peraturan/Keppres%2080%20-%202003%20-%20PBJ.pdf)
 + [Peraturan Presiden (Perpres) No. 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](https://luk.staff.ugm.ac.id/atur/Perpres54-2010Lengkap.pdf)
 + [Peraturan Presiden (Perpres) No. 16 Tahun 2018 Tentang Pengadaan Barang/Jasa Pemerintah](http://peraturan.go.id/common/dokumen/ln/2018/ps16-2018.pdf)
-+ [Peraturan Pemerintah (PP) No. 136 Tahun 2000](https://peraturan.bpk.go.id/Home/Details/54016/pp-no-136-tahun-2000)
 + [Peraturan LKPP Nomor 7 Tahun 2018 Tentang Pedoman Perencanaan Pengadaan Barang/jasa Pemerintah](https://yuridis.id/peraturan-lembaga-nomor-7-tahun-2018-tentang-pedoman-perencanaan-pengadaan-barang-jasa-pemerintah/)
-+ [dan lain-lain](http://peraturan.go.id/peraturan/index-lembaran-negara.html?LembaranNegaraSearch%5Bjenis_peraturan_id%5D=&LembaranNegaraSearch%5Bnomor%5D=&LembaranNegaraSearch%5Btahun%5D=&LembaranNegaraSearch%5Btentang%5D=pengadaan)
++ [Peraturan terkait Pengadaan Barang/Jasa Pemerintah yang lainnya](http://peraturan.go.id/peraturan/index-lembaran-negara.html?LembaranNegaraSearch%5Bjenis_peraturan_id%5D=&LembaranNegaraSearch%5Bnomor%5D=&LembaranNegaraSearch%5Btahun%5D=&LembaranNegaraSearch%5Btentang%5D=pengadaan)
 
 ### Ikut Tender Pengadaan Barang/Jasa Nasional
 + [**LKPP** Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah](https://www.lkpp.go.id/) | [Wiki](https://id.wikipedia.org/wiki/Lembaga_Kebijakan_Pengadaan_Barang/Jasa_Pemerintah)
@@ -27,7 +27,7 @@ Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara 
 ### Ikut Lelang Nasional
 + [**Lelang Indonesia / Sitaan Pajak** - Direktorat Jenderal Kekayaan Negara (DJKN) - Kementrian Keuangan](https://lelang.go.id/) | [DJKN](https://www.djkn.kemenkeu.go.id/)
 + [**Lelang KPK** Lelang Barang Sitaan KPK](https://www.kpk.go.id/id/publikasi/pengumuman-lelang/pengumuman-lelang-barang-rampasan/825-pengumuman-lelang)
-+ [**Lelang Barang dan Jasa Pengadilan**]()
++ **Lelang Barang dan Jasa Pengadilan**: [ptun-jakarta](https://ptun-jakarta.go.id/?announcement-type=hasil-lelang) | [pn-balebandung](https://pn-balebandung.go.id/lelang-barang-dan-jasa.html) | [pta-gorontalo](https://www.pta-gorontalo.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pt-palembang](https://pt-palembang.go.id/index.php/berita/pengumuman/lelang-barang-jasa) | [pa-bandung](http://pa-bandung.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pta-palembang](http://www.pta-palembang.net/v2/index.php/berita/pengumuman/lelang-barang-dan-jasa) | [ptun-tanjungpinang](https://www.ptun-tanjungpinang.go.id/?page_id=2287) | [pn-pariaman](http://www.pn-pariaman.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa.html) | dll.
 
 ### Ikut Tender Pengadaan Barang/Jasa Institusi Negara
 [MPR](http://lpse.mpr.go.id/eproc4) | [DPR](https://lpse.dpr.go.id/eproc4) | [DPD](http://lpse.dpd.go.id/eproc4) | [MK](http://lpse.mahkamahkonstitusi.go.id/eproc4) | [MA](https://lpse.mahkamahagung.go.id/eproc4) | [KY](http://www.komisiyudisial.go.id/frontend/procurement) | [TNI](https://lpse.tni.mil.id/eproc4): [TNI AD](https://lpse.tniad.org/eproc4), [TNI AL](http://lpse.tnial.mil.id/eproc4), [TNI AU](http://110.138.137.229/eproc4/) | [Mahkamah Agung](https://lpse.mahkamahagung.go.id/eproc4) | [Kejaksaan](http://lpse.kejaksaan.go.id/eproc4) | [POLRI](http://lpse.polri.go.id/eproc4)
