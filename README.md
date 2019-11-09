@@ -26,8 +26,8 @@ Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara 
 
 ### Ikut Lelang Nasional
 + [**Lelang Indonesia / Sitaan Pajak** - Direktorat Jenderal Kekayaan Negara (DJKN) - Kementrian Keuangan](https://lelang.go.id/) | [DJKN](https://www.djkn.kemenkeu.go.id/)
-+ [**Lelang KPK** Lelang Barang Sitaan KPK](https://www.kpk.go.id/id/publikasi/pengumuman-lelang/pengumuman-lelang-barang-rampasan/825-pengumuman-lelang)
-+ **Lelang Barang dan Jasa Pengadilan**: [ptun-jakarta](https://ptun-jakarta.go.id/?announcement-type=hasil-lelang) | [pn-balebandung](https://pn-balebandung.go.id/lelang-barang-dan-jasa.html) | [pta-gorontalo](https://www.pta-gorontalo.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pt-palembang](https://pt-palembang.go.id/index.php/berita/pengumuman/lelang-barang-jasa) | [pa-bandung](http://pa-bandung.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pta-palembang](http://www.pta-palembang.net/v2/index.php/berita/pengumuman/lelang-barang-dan-jasa) | [ptun-tanjungpinang](https://www.ptun-tanjungpinang.go.id/?page_id=2287) | [pn-pariaman](http://www.pn-pariaman.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa.html) | dll.
++ [**Lelang KPK** Lelang Barang Sitaan - KPK](https://www.kpk.go.id/id/publikasi/pengumuman-lelang/pengumuman-lelang-barang-rampasan/825-pengumuman-lelang)
++ **Lelang Pengadilan** Lelang Barang dan Jasa - Mahkamah Agung: [ptun-jakarta](https://ptun-jakarta.go.id/?announcement-type=hasil-lelang) | [pn-balebandung](https://pn-balebandung.go.id/lelang-barang-dan-jasa.html) | [pta-gorontalo](https://www.pta-gorontalo.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pt-palembang](https://pt-palembang.go.id/index.php/berita/pengumuman/lelang-barang-jasa) | [pa-bandung](http://pa-bandung.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pta-palembang](http://www.pta-palembang.net/v2/index.php/berita/pengumuman/lelang-barang-dan-jasa) | [ptun-tanjungpinang](https://www.ptun-tanjungpinang.go.id/?page_id=2287) | [pn-pariaman](http://www.pn-pariaman.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa.html) | dll.
 
 ### Ikut Tender Pengadaan Barang/Jasa Institusi Negara
 [MPR](http://lpse.mpr.go.id/eproc4) | [DPR](https://lpse.dpr.go.id/eproc4) | [DPD](http://lpse.dpd.go.id/eproc4) | [MK](http://lpse.mahkamahkonstitusi.go.id/eproc4) | [MA](https://lpse.mahkamahagung.go.id/eproc4) | [KY](http://www.komisiyudisial.go.id/frontend/procurement) | [TNI](https://lpse.tni.mil.id/eproc4): [TNI AD](https://lpse.tniad.org/eproc4), [TNI AL](http://lpse.tnial.mil.id/eproc4), [TNI AU](http://110.138.137.229/eproc4/) | [Mahkamah Agung](https://lpse.mahkamahagung.go.id/eproc4) | [Kejaksaan](http://lpse.kejaksaan.go.id/eproc4) | [POLRI](http://lpse.polri.go.id/eproc4)
@@ -54,53 +54,53 @@ Akomodasi dan penyediaan makanan dan minuman | Industri pengolahan | Informasi d
 
 ### Ikut Tender Pengadaan Barang/Jasa Kota/Kabupaten
 #### Sumatra
-+ [**Aceh**](http://www.pusdatin.kemkes.go.id): [Banda Aceh](https://bandaacehkota.bps.go.id) (capital) | [Langsa](https://langsakota.bps.go.id/) | [Lhokseumawe](https://lhokseumawekota.bps.go.id/) | [Meulaboh](https://acehbaratkab.bps.go.id/) | [Sabang](https://sabangkota.bps.go.id/) | [Subulussalam](https://subulussalamkota.bps.go.id/)
-+ [**North Sumatra**](https://sumut.bps.go.id): [Medan](https://medankota.bps.go.id) (capital) | [Binjai](https://binjaikota.bps.go.id/) | [Padang Sidempuan](https://padangsidimpuankota.bps.go.id/) | [Pematangsiantar](https://siantarkota.bps.go.id/) | [Sibolga](https://sibolgakota.bps.go.id/) | [Tanjungbalai](https://tanjungbalaikota.bps.go.id/) | [Tebingtinggi](https://tebingtinggikota.bps.go.id/)
-+ [**West Sumatra**](https://sumbar.bps.go.id): [Padang](https://padangkota.bps.go.id) (capital) | [Bukittinggi](https://bukittinggikota.bps.go.id/) | [Padangpanjang](https://padangpanjangkota.bps.go.id/) | [Pariaman](https://pariamankota.bps.go.id/) | [Payakumbuh](https://payakumbuhkota.bps.go.id/) | [Sawahlunto](https://sawahluntokota.bps.go.id/) | [Solok](https://solokkab.bps.go.id/)
-+ [**Riau**](https://riau.bps.go.id): [Pekanbaru](https://pekanbarukota.bps.go.id) (capital) | [Dumai](https://dumaikota.bps.go.id/)
-+ [**Riau Islands**](https://kepri.bps.go.id): [Tanjung Pinang](https://tanjungpinangkota.bps.go.id) (capital) | [Batam](https://batamkota.bps.go.id/)
-+ [**Jambi**](https://jambi.bps.go.id): [Kota Jambi](https://jambikota.bps.go.id) (capital) | [Sungai Penuh](https://sungaipenuhkota.bps.go.id/)
-+ [**Bengkulu**](https://bengkulu.bps.go.id): [Kota Bengkulu](https://bengkulukota.bps.go.id) (capital)
-+ [**South Sumatra**](https://sumsel.bps.go.id): [Palembang](https://palembangkota.bps.go.id) (capital) | [Lubuklinggau](https://lubuklinggaukota.bps.go.id/) | [Pagaralam](https://pagaralamkota.bps.go.id/) | [Prabumulih](https://prabumulihkota.bps.go.id/) 
-+ [**Bangka Belitung Islands**](https://babel.bps.go.id): [Pangkalpinang](https://pangkalpinangkota.bps.go.id) (capital)
-+ [**Lampung**](https://lampung.bps.go.id): [Bandar Lampung](https://bandarlampungkota.bps.go.id) (capital) | [Metro](https://metrokota.bps.go.id/)
++ **Aceh**: [Banda Aceh](https://lpse.bandaacehkota.go.id/eproc/) (capital) | [Langsa](http://lpse.langsakota.go.id/eproc4) | [Lhokseumawe]() | [Meulaboh]() | [Sabang]() | [Subulussalam]()
++ **North Sumatra**: [Medan](http://lpse.pemkomedan.go.id/eproc4/lelang) (capital) | [Binjai]() | [Padang Sidempuan]() | [Pematangsiantar]() | [Sibolga]() | [Tanjungbalai]() | [Tebingtinggi]()
++ **West Sumatra**: [Padang](http://lpse.padang.go.id/eproc4) (capital) | [Bukittinggi]() | [Padangpanjang]() | [Pariaman]() | [Payakumbuh]() | [Sawahlunto]() | [Solok]()
++ **Riau**: [Pekanbaru](http://lpse.pekanbaru.go.id/eproc4) (capital) | [Dumai]()
++ **Riau Islands**: [Tanjung Pinang](https://lpse.tanjungpinangkota.go.id/eproc4) (capital) | [Batam]()
++ **Jambi**: [Kota Jambi](http://lpse.jambikota.go.id/eproc4) (capital) | [Sungai Penuh]()
++ **Bengkulu**: [Kota Bengkulu](http://lpse.bengkulukota.go.id/eproc4) (capital)
++ **South Sumatra**: [Palembang](https://lpse.palembang.go.id/eproc4/) (capital) | [Lubuklinggau]() | [Pagaralam]() | [Prabumulih]() 
++ **Bangka Belitung Islands**: [Pangkalpinang](http://lpse.pangkalpinangkota.go.id/eproc4) (capital)
++ **Lampung**: [Bandar Lampung](http://lpse.bandarlampungkota.go.id/eproc4/) (capital) | [Metro]()
 
 #### Java
-+ [**Banten**](https://banten.bps.go.id): [Serang](https://serangkota.bps.go.id) (capital) | [Cilegon](https://cilegonkota.bps.go.id/) | [Tangerang Selatan](https://tangselkota.bps.go.id/) | [Tangerang](https://tangerangkota.bps.go.id/)
-+ [**D.K.I. Jakarta**](https://jakarta.bps.go.id): [Center Jakarta](https://jakpuskota.bps.go.id) (capital) | [Jakarta Barat](https://jakbarkota.bps.go.id/) | [Jakarta Selatan](https://jakselkota.bps.go.id/) | [Jakarta Timur](https://jaktimkota.bps.go.id/) | [Jakarta Utara](https://jakutkota.bps.go.id/)
-+ [**West Java**](https://jabar.bps.go.id): [Bandung](https://bandungkota.bps.go.id) (capital) | [Bekasi](https://bekasikota.bps.go.id/) | [Bogor](https://bogorkota.bps.go.id/) | [Cimahi](https://cimahikota.bps.go.id/) | [Cirebon](https://cirebonkota.bps.go.id/) | [Depok](https://depokkota.bps.go.id/) | [Sukabumi](https://sukabumikab.bps.go.id/) | [Tasikmalaya](https://tasikmalayakota.bps.go.id/) | [Banjar](https://banjarkota.bps.go.id/)
-+ [**Center Java**](https://jateng.bps.go.id): [Semarang](https://semarangkota.bps.go.id) (capital) | [Magelang](https://magelangkab.bps.go.id/) | [Pekalongan](https://pekalongankota.bps.go.id/) | [Purwokerto](https://banyumaskab.bps.go.id/) | [Salatiga](https://salatigakota.bps.go.id/) | [Surakarta](https://surakartakota.bps.go.id/) | [Tegal](https://tegalkota.bps.go.id/)
-+ [**D.I. Yogyakarta**](https://jakpuskota.bps.go.id): [Yogyakarta](https://jogjakota.bps.go.id) (capital)
-+ [**East Java**](https://jatim.bps.go.id): [Surabaya](https://surabayakota.bps.go.id) (capital) | [Malang](https://malangkota.bps.go.id/) | [Batu](https://batukota.bps.go.id/) | [Blitar](https://blitarkota.bps.go.id/) | [Kediri](https://kedirikota.bps.go.id/) | [Madiun](https://madiunkota.bps.go.id/) | [Mojokerto](https://mojokertokota.bps.go.id/) | [Pasuruan](https://pasuruankota.bps.go.id/) | [Probolinggo](https://probolinggokota.bps.go.id/)
++ **Banten**: [Serang](https://lpse.serangkota.go.id/eproc4) (capital) | [Cilegon]() | [Tangerang Selatan]() | [Tangerang]()
++ **D.K.I. Jakarta**: [Center Jakarta](https://lpse.jakarta.go.id/eproc4) (capital) | [Jakarta Barat]() | [Jakarta Selatan]() | [Jakarta Timur]() | [Jakarta Utara]()
++ **West Java**: [Bandung](http://lpse.bandung.go.id/eproc4) (capital) | [Bekasi]() | [Bogor]() | [Cimahi]() | [Cirebon]() | [Depok]() | [Sukabumi]() | [Tasikmalaya]() | [Banjar]()
++ **Center Java**: [Semarang](https://lpse.semarangkota.go.id/eproc4) (capital) | [Magelang]() | [Pekalongan]() | [Purwokerto]() | [Salatiga]() | [Surakarta]() | [Tegal]()
++ **D.I. Yogyakarta**: [Yogyakarta](http://lpse.jogjakota.go.id/eproc4/) (capital)
++ **East Java**: [Surabaya](https://lpse.surabaya.go.id/eproc4) (capital) | [Malang]() | [Batu]() | [Blitar]() | [Kediri]() | [Madiun]() | [Mojokerto]() | [Pasuruan]() | [Probolinggo]()
 
 #### Kalimantan
-+ [**West Kalimantan**](https://kalbar.bps.go.id): [Pontianak](https://pontianakkota.bps.go.id) (capital) | [Singkawang](https://singkawangkota.bps.go.id/)
-+ [**Center Kalimantan**](https://kalteng.bps.go.id): [Palangkaraya](https://palangkakota.bps.go.id) (capital)
-+ [**South Kalimantan**](https://kalsel.bps.go.id): [Banjarmasin](https://banjarmasinkota.bps.go.id) (capital) | [Banjarbaru](https://banjarbarukota.bps.go.id/)
-+ [**East Kalimantan**](https://kaltim.bps.go.id): [Samarinda](https://banjarmasinkota.bps.go.id) (capital) | [Balikpapan](https://balikpapankota.bps.go.id/) | [Bontang](https://bontangkota.bps.go.id/)
-+ [**North Kalimantan**](https://kaltara.bps.go.id): [Tarakan](https://tarakankota.bps.go.id/) (capital)
++ **West Kalimantan**: [Pontianak](http://lpse.pontianakkota.go.id/eproc4) (capital) | [Singkawang]()
++ **Center Kalimantan**: [Palangkaraya](https://lpse.palangkaraya.go.id/eproc4) (capital)
++ **South Kalimantan**: [Banjarmasin](http://lpse.banjarmasinkota.go.id/eproc4) (capital) | [Banjarbaru]()
++ **East Kalimantan**: [Samarinda](http://lpse.samarindakota.go.id/eproc4) (capital) | [Balikpapan]() | [Bontang]()
++ **North Kalimantan**: [Tarakan](http://lpse.tarakankota.go.id/eproc4?cat=77) (capital)
 
 #### Sulawesi
-+ [**South Sulawesi**](https://sulsel.bps.go.id): [Makassar](https://makassarkota.bps.go.id) (capital) | [Palopo](https://palopokota.bps.go.id/) | [Parepare](https://pareparekota.bps.go.id/)
-+ [**Center Sulawesi**](https://sulteng.bps.go.id): [Palu](https://palukota.bps.go.id) (capital)
-+ [**Southeast Sulawesi**](https://sultra.bps.go.id): [Kendari](https://kendarikota.bps.go.id) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
-+ [**Gorontalo**](https://gorontalo.bps.go.id): [Kota Gorontalo](https://gorontalokota.bps.go.id) (capital)
-+ [**North Sulawesi**](https://sulut.bps.go.id): [Manado](https://manadokota.bps.go.id) (capital) | [Bitung](https://bitungkota.bps.go.id/) | [Kotamobagu](https://kotamobagukota.bps.go.id/) | [Tomohon](https://tomohonkota.bps.go.id/)
++ **South Sulawesi**: [Makassar](https://lpse.makassar.go.id/eproc4) (capital) | [Palopo]() | [Parepare]()
++ **Center Sulawesi**: [Palu](http://lpse.palukota.go.id/eproc4/) (capital)
++ **Southeast Sulawesi**: [Kendari](https://lpsekotakendari.net/eproc/) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
++ **Gorontalo**: [Kota Gorontalo](http://lpse.gorontalokota.go.id/eproc4) (capital)
++ **North Sulawesi**: [Manado](http://lpse.manadokota.go.id/eproc4) (capital) | [Bitung]() | [Kotamobagu]() | [Tomohon]()
 
 #### Maluku
-+ [**Maluku**](https://maluku.bps.go.id): [Ambon](https://ambonkota.bps.go.id) (capital) | [Tual](https://tualkota.bps.go.id)
-+ [**North Maluku**](https://malut.bps.go.id): [Sofifi](https://tikepkota.bps.go.id) (capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
++ **Maluku**: [Ambon](http://lpse.ambon.go.id/eproc4) (capital) | [Tual]()
++ **North Maluku**: [Sofifi]() (capital) | [Ternate](http://lpse.ternatekota.go.id/eproc4) | [Tidora]()
 
 #### Bali
-+ [**Bali**](https://bali.bps.go.id/): [Denpasar](https://denpasarkota.bps.go.id/)(capital)
++ **Bali**: [Denpasar](http://eproc.denpasarkota.go.id/eproc4)(capital)
 
 #### Nusa Tenggara
-+ [**West Nusa Tenggara**](https://ntb.bps.go.id): [Mataram](https://mataramkota.bps.go.id) (capital) | [Bima](https://bimakota.bps.go.id/)
-+ [**East Nusa Tenggara**](https://ntt.bps.go.id): [Kupang](https://kupangkota.bps.go.id) (capital)
++ **West Nusa Tenggara**: [Mataram](http://lpse.mataramkota.go.id/eproc4) (capital) | [Bima]()
++ **East Nusa Tenggara**: [Kupang](http://lpse.kupangkota.go.id/eproc4/) (capital)
 
 #### Papua
-+ [**Papua**](https://papua.bps.go.id): [Jayapura](https://jayapurakota.bps.go.id) (capital)
-+ [**West Papua**](https://papuabarat.bps.go.id): [Manokwari](https://manokwarikab.bps.go.id) (capital)
++ **Papua**: [Jayapura](http://lpse.jayapurakota.go.id/eproc4/) (capital)
++ **West Papua**: [Manokwari](http://lpse.manokwarikab.go.id/eproc4/) (capital)
 
 ### Referensi
 + [indonesia.go.id](https://www.indonesia.go.id)
