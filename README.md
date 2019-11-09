@@ -19,7 +19,9 @@ Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara 
   + [**MONEV LKPP** Evaluasi dan Pengawasan Realisasi Anggaran](https://monev.lkpp.go.id/)
 
 ### Ikut Lelang Nasional
-+ [**Lelang Indonesia** - Direktorat Jenderal Kekayaan Negara (DJKN) - Kementrian Keuangan](https://lelang.go.id/) | [DJKN](https://www.djkn.kemenkeu.go.id/)
++ [**Lelang Indonesia / Sitaan Pajak** - Direktorat Jenderal Kekayaan Negara (DJKN) - Kementrian Keuangan](https://lelang.go.id/) | [DJKN](https://www.djkn.kemenkeu.go.id/)
++ [**Lelang KPK** Lelang Barang Sitaan KPK](https://www.kpk.go.id/id/publikasi/pengumuman-lelang/pengumuman-lelang-barang-rampasan/825-pengumuman-lelang)
++ [**Lelang Barang dan Jasa Pengadilan**]()
 
 ### Ikut Tender Pengadaan Barang/Jasa Kementrian
 [Keuangan](https://www.lpse.kemenkeu.go.id/eproc4) | [Pekerjaan Umum dan Perumahan Rakyat](https://lpse.pu.go.id/eproc4) | [ESDM](https://eproc.esdm.go.id/eproc4) | [Perindustrian](https://lpse.kemenperin.go.id/eproc4) | [Agama](https://lpse.kemenag.go.id/eproc4/) | [Kesehatan](http://www.lpse.depkes.go.id/eproc4) | [Perhubungan](http://lpse.dephub.go.id/eproc4) | [Kelautan dan Perikanan](http://lpse.kkp.go.id/eproc4) | [Pertanian](http://lpse.pertanian.go.id/eproc4) | [Riset dan Teknologi Tinggi](https://lpse.ristekdikti.go.id/eproc4) | [Pendidikan dan Kebudayaan](https://lpse.kemdikbud.go.id/eproc4) | [Pariwisata](https://lpse.kemenpar.go.id/eproc4) | [Hukum dan HAM](https://lpse.kemenkumham.go.id/eproc4) | [Lingkungan Hidup dan Kehutanan](http://lpse.menlhk.go.id/eproc4) | [Komunikasi dan Informatika](https://lpse.kominfo.go.id/eproc4) | [Agraria Dan Tata Ruang/ Badan Pertanahan Nasional](http://lpse.atrbpn.go.id/eproc4) | [Desa, Pembangunan Daerah Tertinggal dan Transmigrasi](http://lpse.kemendesa.go.id/eproc4) | [Luar Negeri](https://lpse.kemlu.go.id/eproc4) | [Pertahanan](https://lpse.kemhan.go.id/eproc4/)
