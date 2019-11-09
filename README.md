@@ -6,7 +6,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
 ## Cara Mendapatkan Uang Negara Tanpa Korupsi
-Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara secara legal dan tentunya tanpa korupsi. Berikut adalah beberapa cara untuk mendapatkan dana dari uang negara.
+Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara secara legal dan tentunya tanpa korupsi. Berikut adalah beberapa cara untuk mendapatkan dana dari uang negara didahului dengan landasan hukumnya.
++ [Keputusan Presiden (Keppres) No. 80 Tahun 2003 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Pemerintah](http://www.anggaran.depkeu.go.id/peraturan/Keppres%2080%20-%202003%20-%20PBJ.pdf)
++ [Peraturan Presiden (Perpres) No. 54 Tahun 2010 tentang Pengadaan Barang/Jasa Pemerintah](https://luk.staff.ugm.ac.id/atur/Perpres54-2010Lengkap.pdf)
++ [Peraturan Presiden (Perpres) No. 16 Tahun 2018 Tentang Pengadaan Barang/Jasa Pemerintah](http://peraturan.go.id/common/dokumen/ln/2018/ps16-2018.pdf)
++ [Peraturan Pemerintah (PP) No. 136 Tahun 2000](https://peraturan.bpk.go.id/Home/Details/54016/pp-no-136-tahun-2000)
++ [Peraturan LKPP Nomor 7 Tahun 2018 Tentang Pedoman Perencanaan Pengadaan Barang/jasa Pemerintah](https://yuridis.id/peraturan-lembaga-nomor-7-tahun-2018-tentang-pedoman-perencanaan-pengadaan-barang-jasa-pemerintah/)
++ [dan lain-lain](http://peraturan.go.id/peraturan/index-lembaran-negara.html?LembaranNegaraSearch%5Bjenis_peraturan_id%5D=&LembaranNegaraSearch%5Bnomor%5D=&LembaranNegaraSearch%5Btahun%5D=&LembaranNegaraSearch%5Btentang%5D=pengadaan)
 
 ### Ikut Tender Pengadaan Barang/Jasa Nasional
 + [**LKPP** Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah](https://www.lkpp.go.id/) | [Wiki](https://id.wikipedia.org/wiki/Lembaga_Kebijakan_Pengadaan_Barang/Jasa_Pemerintah)
