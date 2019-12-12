@@ -71,7 +71,7 @@ Industri pengolahan: [Semen Indonesia](https://eprocurement.semenindonesia.com/e
 + **West Java**: [Bandung](http://lpse.bandung.go.id/eproc4) (capital) | [Bekasi]() | [Bogor]() | [Cimahi]() | [Cirebon]() | [Depok]() | [Sukabumi]() | [Tasikmalaya]() | [Banjar]()
 + **Center Java**: [Semarang](https://lpse.semarangkota.go.id/eproc4) (capital) | [Magelang]() | [Pekalongan]() | [Purwokerto]() | [Salatiga]() | [Surakarta]() | [Tegal]()
 + **D.I. Yogyakarta**: [Yogyakarta](http://lpse.jogjakota.go.id/eproc4/) (capital)
-+ **East Java**: [Surabaya](https://lpse.surabaya.go.id/eproc4) (capital) | [Malang]() | [Batu]() | [Blitar]() | [Kediri]() | [Madiun]() | [Mojokerto]() | [Pasuruan]() | [Probolinggo]()
++ **East Java**: [Surabaya](https://lpse.surabaya.go.id/eproc4) (capital) | [Malang](https://lpse.malangkota.go.id/eproc4/) | [Batu]() | [Blitar]() | [Kediri]() | [Madiun]() | [Mojokerto]() | [Pasuruan]() | [Probolinggo]() >> [Banyuwangi](https://lpse.banyuwangikab.go.id/eproc4) | [Jember](http://lpse.jemberkab.go.id/eproc4/) | [Bondowoso](http://lpse.bondowosokab.go.id/eproc4/) | [Situbondo](http://lpse.situbondokab.go.id/eproc4/)
 
 #### Kalimantan
 + **West Kalimantan**: [Pontianak](http://lpse.pontianakkota.go.id/eproc4) (capital) | [Singkawang]()
