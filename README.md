@@ -27,6 +27,7 @@ Banyak orang berpikir, bagaimana caranya agar mendapatkan dana dari uang negara 
 ### Ikut Lelang Nasional
 + [**Lelang Indonesia / Sitaan Pajak** - Direktorat Jenderal Kekayaan Negara (DJKN) - Kementrian Keuangan](https://lelang.go.id/) | [DJKN](https://www.djkn.kemenkeu.go.id/)
 + [**Lelang KPK** Lelang Barang Sitaan - KPK](https://www.kpk.go.id/id/publikasi/pengumuman-lelang/pengumuman-lelang-barang-rampasan/825-pengumuman-lelang)
++ **Lelang Bank**: [Mandiri](https://lelang.bankmandiri.co.id/) | [BRI](https://infolelang.bri.co.id/) | [BNI](https://lelangagunan.bni.co.id/Agunan) | []() | [BTN](https://rumahmurahbtn.co.id/) | [BSI](https://infolelang.bankbsi.co.id/) | [BNI Syariah](https://lelangbnisyariah.co.id/) 
 + **Lelang Pengadilan** Lelang Barang dan Jasa - Mahkamah Agung: [ptun-jakarta](https://ptun-jakarta.go.id/?announcement-type=hasil-lelang) | [pn-balebandung](https://pn-balebandung.go.id/lelang-barang-dan-jasa.html) | [pta-gorontalo](https://www.pta-gorontalo.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pt-palembang](https://pt-palembang.go.id/index.php/berita/pengumuman/lelang-barang-jasa) | [pa-bandung](http://pa-bandung.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa) | [pta-palembang](http://www.pta-palembang.net/v2/index.php/berita/pengumuman/lelang-barang-dan-jasa) | [ptun-tanjungpinang](https://www.ptun-tanjungpinang.go.id/?page_id=2287) | [pn-pariaman](http://www.pn-pariaman.go.id/layanan-publik/pengumuman/lelang-barang-dan-jasa.html) | dll.
 
 ### Ikut Tender Pengadaan Barang/Jasa Institusi Negara
